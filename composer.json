@@ -16,7 +16,7 @@
     }
   ],
   "require": {
-    "guzzlehttp/guzzle": "^8.2",
+    "guzzlehttp/guzzle": "^6.5",
     "ext-json": "*",
     "ext-gmp": "*",
     "spatie/url": "^1.3",
