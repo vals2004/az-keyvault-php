@@ -1,5 +1,5 @@
 {
-  "name": "wapacro/az-keyvault-php",
+  "name": "vals2004/az-keyvault-php",
   "type": "library",
   "description": "PHP Library to work with Azure KeyVault using managed identity",
   "keywords": [
@@ -16,7 +16,7 @@
     }
   ],
   "require": {
-    "guzzlehttp/guzzle": "^7.0",
+    "guzzlehttp/guzzle": "^8.2",
     "ext-json": "*",
     "ext-gmp": "*",
     "spatie/url": "^1.3",
